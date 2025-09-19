@@ -11,9 +11,9 @@ I like to tinker in my home lab, break things safely, and bring reliable solutio
 ## Tech Stack
 
 * **Cloud \& Infra:** AWS (IAM, EC2, Lambda, S3, CloudWatch), Azure
-* **DevOps \& CI/CD:** Terraform, GitHub Actions, Jenkins, Artifactory, Puppet, SonarQube
+* **DevOps \& CI/CD:** Terraform, GitHub Actions, Jenkins, Artifactory, Puppet, SonarQube, Trivy
 * **Containers:** Docker
-* **Scripting:** PowerShell, Python
+* **Scripting:** PowerShell, Python, Bash
 * **Monitoring \& Security:** Splunk, Elasticsearch
 
 ## 
