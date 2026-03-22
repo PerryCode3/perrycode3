@@ -1,6 +1,6 @@
 # Hi, I'm Perry
 
-**DevSecOps | Cloud Engineer | Site Reliability Engineer**  
+**Security Engineer**  
 
 
 11+ years in IT, specializing in automation, security, and scalable systems across **AWS** and **Azure**.
